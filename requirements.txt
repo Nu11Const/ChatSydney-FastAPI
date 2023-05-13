@@ -1,3 +1,5 @@
-aiohttp
 EdgeGPT
 websockets
+fastapi
+uvicorn
+asyncio
